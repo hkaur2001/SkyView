@@ -28,6 +28,7 @@ public class SkyView {private double [][] view;
             System.out.println();
         }
     }
+    //finds average of input
     public double getAverage(int startRow, int endRow, int startCol, int endCol)
     {
         double sum = 0;
